@@ -18,10 +18,8 @@ Este repositorio contiene una colección de proyectos desarrollados durante mi f
 | Proyecto              | Descripción                                               | Tecnologías           |
 |-----------------------|-----------------------------------------------------------|------------------------|
 | `algoritmos-busqueda` | Implementación de algoritmos de búsqueda binaria y lineal | Java                  |
-| `sistema-reservas`    | Simulación de un sistema de reservas de vuelos            | Python, SQLite        |
-| `tienda-angular`      | Frontend de una tienda virtual                            | Angular, TypeScript   |
-| `estructura-datos`    | Pilas, colas y listas enlazadas                           | Java, Swing           |
-| `api-rest-spring`     | API RESTful con autenticación básica                      | Spring Boot, Java     |
+| `algoritmo de pilas`  | Implementación de algoritmo por pilas                     | Java                  |
+
 
 ## ⚙️ Requisitos Generales
 
